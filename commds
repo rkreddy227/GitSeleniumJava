@@ -1,0 +1,330 @@
+    1  pwd
+    2  cd C:\Users\18482\git\selenium\Selenium
+    3  ls
+    4  cd git/
+    5  ls
+    6  cd selenium
+    7  ls
+    8  clear
+    9  ls
+   10  pwd
+   11  git init .
+   12  git add ll
+   13  git add .
+   14  git commit -m 'added one test class'
+   15  git branch -a
+   16  git init.
+   17  git init .
+   18  git add all
+   19  git add .
+   20  git commit -m 'add new testcases'
+   21  git config --global user.name "rkreddy227"
+   22  git commit -m 'add new testcases'
+   23  omit --global
+   24  Omit --global
+   25  git config --global user.email "rkreddy227@gmail.com"
+   26  git commit -m 'add new testcases'
+   27  git pull
+   28  git pull origin master
+   29  git pull master
+   30  git pull https://github.com/rkreddy227/selenium.git
+   31  git push
+   32  git remote add rkreddy227 https://github.com/rkreddy227/selenium.git
+   33  git push rkreddy227
+   34      git push --set-upstream rkreddy227 master
+   35      git push --set-upstream rkreddy227 master
+   36  git branch -a
+   37  git branch -a
+   38  git init .
+   39  git branch -a
+   40  git pull -all
+   41  git init .
+   42  git pull -all
+   43  git pull --all
+   44  pwd
+   45  git clone https://github.com/rkreddy227/selenium.git
+   46  git status
+   47  cd test
+   48  ls
+   49  cd selenium/
+   50  git status
+   51  git status
+   52  git status
+   53  ls
+   54  cd Selenium/
+   55  ls
+   56  cd src
+   57  ls
+   58  cd test
+   59  ls
+   60  git status
+   61  git status
+   62  git clone https://github.com/rkreddy227/selenium.git
+   63  git branch test1
+   64  ls
+   65  cd selenium/
+   66  ls
+   67  git branch test1
+   68  ls
+   69  git checkout test1
+   70  git status
+   71  git add .
+   72  git commit -m 'modified test case'
+   73  git push origin test1
+   74  git config sample12
+   75  git config --global core.editor "notepad"
+   76  git config core.editor 
+   77  pwd
+   78  ls
+   79  git init .
+   80  git status
+   81  git add .
+   82  git commit -m 'added new file'
+   83  git push
+   84  git branch testingsample
+   85  git checkout testingsample
+   86  git status
+   87  git status
+   88  git add .
+   89  git commit -m "added apptest2 file"
+   90  git push testingsample
+   91  git push testingsample
+   92  git push +testingsample
+   93  git status
+   94  ls
+   95  cd Selenium/
+   96  git push testingsample
+   97  git push orihin testingsample
+   98  git push origin testingsample
+   99  git >commds1
+  100  pwd
+  101  git init .
+  102  git status
+  103  git add .
+  104  git commit -m 'adding new files '
+  105  git status
+  106  git init .
+  107  git add .
+  108  git clone https://github.com/rkreddy227/selenium.git
+  109  git init .
+  110  git status
+  111  git push 
+  112  git remote add rkreddy227 https://github.com/rkreddy227/selenium.git
+  113  git push rkreddy227
+  114  git push origin master
+  115  git remote add upstream https://github.com/rkreddy227/selenium.git
+  116  git fetch upstream
+  117  git pull
+  118  git pull master
+  119  git pull origin master
+  120  git remote add origin https://github.com/rkreddy227/selenium.git
+  121  git pull origin master
+  122  git status
+  123  git push
+  124  git push origin master
+  125  git pull
+  126  git pull origin master
+  127  git init .
+  128  git status
+  129  git add .
+  130  git commit -m "Modified with java "
+  131  git push
+  132  git push origin master
+  133  git pull origin master
+  134  git push origin master
+  135  git pull origin master --allow-unrelated-histories
+  136  git push origin master
+  137  git init .
+  138  git a
+  139  git commit -m 'adding new files '
+  140  git pull
+  141  git pull origin master
+  142  git pull 
+  143  git pull https://github.com/rkreddy227/selenium.git master
+  144  git pull origin master --allow-unrelated-histories
+  145  git pull https://github.com/rkreddy227/selenium.git master  --allow-unrelated-histories
+  146  git add .
+  147  git commit -m 'resolved merge conflicts'
+  148  git pull
+  149  git branch --set-upstream-to=<remote>/<branch> master
+  150  git branch --set-upstream-to=https://github.com/rkreddy227/selenium.git/master
+  151  git init .
+  152  git init .
+  153  git clone https://github.com/rkreddy227/selenium.git
+  154  git status
+  155  git add .
+  156  git status
+  157  status
+  158  git init
+  159  git commit -m 'added new test'
+  160  git pull
+  161  git push
+  162  git init
+  163  git push 
+  164  git push https://github.com/rkreddy227/jenkinsjob
+  165   git push --set-upstream https://github.com/rkreddy227/jenkinsjob master
+  166  git init
+  167  git commit -m "First Commit"
+  168  git add .
+  169  git commit -m "First Commit"
+  170  git remote add origin https://github.com/rkreddy227/jenkinsjob.git
+  171  git push -u origin master
+  172  git init
+  173  git remote add origin "https://github.com/rkreddy227/jenkinsjob.git"
+  174  git add -A
+  175  git config user.name "ram"
+  176  git config user.email "rkreddy227@gmail.com"
+  177  git commit -m "first chage "
+  178  git push -u origin master 
+  179  git status
+  180  git init
+  181  git add .
+  182  git commit -m "added test2"
+  183  git push 
+  184  git pull origin master
+  185  git add .
+  186  git commit -m "added test2"
+  187  git push 
+  188  git pull origin master
+  189  $ touch .gitignore
+  190  touch .gitignore
+  191  git push origin master
+  192  mvn clean install
+  193  mvn clean install
+  194  git init
+  195  git add READEM.md
+  196  git commit -m "first commit" 
+  197  git remote add origin https://github.com/rkreddy227/BankingRamDDT.git
+  198  git push -u origin maste
+  199  git push -u origin master
+  200  git init .
+  201  git add .
+  202  git commit -m "first commit" 
+  203  git remote add origin https://github.com/rkreddy227/BankingRamDDT.git
+  204  git push -u origin master
+  205  git pull
+  206  pwd
+  207  pwd
+  208  git init .
+  209  git checkout edurekha
+  210  git status
+  211  git init
+  212  git init .
+  213  git add all
+  214  git add .
+  215  git commit -m 'added files'
+  216  git pull
+  217   git branch --set-upstream-to=origin/<branch> edurekha
+  218   git branch --set-upstream-to=origin/edurekha
+  219  git push -u origin edurekha
+  220  git checkout rk
+  221  git add .
+  222  git commit -m "second file"
+  223  git pull origin master
+  224  git push 
+  225  git push -u origin/rk
+  226  git push -u origin rk
+  227  git merge rk
+  228  git init.
+  229  git init
+  230  ls
+  231  git status
+  232  ls
+  233  git init.
+  234  git init
+  235  touch testGit1.java
+  236  ls
+  237  git add .
+  238  ls
+  239  gedit testGit2.java
+  240  touch testGit2.java
+  241  git add
+  242  git add .
+  243  git commit -m "first git commit"
+  244  git status
+  245  touch welcome.java
+  246  git status
+  247  git clone https://github.com/rkreddy227/firstRepo
+  248  git add .
+  249  git init .
+  250  git add .
+  251  git clone https://github.com/rkreddy227/firstRepo
+  252  git status
+  253  git init .
+  254  git add .
+  255  git commit -m 'added test'
+  256  git pull
+  257  git push
+  258  pwd
+  259  touch testNew.txt
+  260  git add .
+  261  git status
+  262* git 
+  263  git commit -m "added new test file"
+  264  git pull
+  265  git push 
+  266  ls
+  267  notepad testNew.txt 
+  268  git status
+  269  git diff
+  270  git add .
+  271  git diff
+  272  git commit -m "Updated"
+  273  git pull
+  274  git push
+  275  ls
+  276  ls
+  277  git checkout rkbranch
+  278  git checkout rkbranch
+  279  git pull
+  280  git checkout rkbranch
+  281  ls
+  282  git status
+  283  git diff
+  284  git add .
+  285  git commit -m "added newt test case3"
+  286  git pull
+  287  git push 
+  288  git checkout master
+  289  git pull
+  290  git checkout rknewbranch
+  291  touch test4.txt
+  292  git status
+  293  git add .
+  294  git commit -m "added test4"
+  295  git push
+  296  git pull
+  297  git push
+  298  git checkout rkbranch
+  299  git merge master
+  300  git pull origin master
+  301  git status
+  302  git checkout rkbranch
+  303  git status
+  304  git pull
+  305  git pull origin master
+  306  git init .
+  307  git add .
+  308  git commit -m 'test'
+  309  git pull
+  310  git push 
+  311  git checkout rknewbranch
+  312  git push 
+  313  git checkout rkbranch
+  314  git pull origin master
+  315  git push
+  316  touch newfile.txt
+  317  git add .
+  318  git commit -m "text added"
+  319  git push
+  320  git pull origin master
+  321  git push
+  322  git status
+  323  git add .
+  324  git commit -m "added two files"
+  325  git pull
+  326  git push 
+  327  git pull origin master
+  328  git push
+  329  history
+  330  history >> commds
